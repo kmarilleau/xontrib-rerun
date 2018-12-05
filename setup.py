@@ -9,7 +9,7 @@ with open(path.join(here, "README.rst"), encoding="utf-8") as f:
 
 setup(
     name="xontrib-rerun",
-    version="0.1",
+    version="0.11",
     url="https://github.com/kmarilleau/xontrib-rerun",
     license="GPLv3+",
     classifiers=[
